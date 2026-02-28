@@ -1,17 +1,22 @@
+/* ================= PAGE BACKGROUND COLOR ================= */
+
 html {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
+
+/* ================= PAGE BODY ================= */
+
 
 body {
   font: 1.2em / 1.5 system-ui;
   padding: 20px;
   width: 500px;
-  background-color: #efefef;
+  background-color: white;
   margin: 0 auto;
 }
 
 h1 {
-  color: darkslategray;
+  color: rgb(48, 82, 82);
   border-bottom: 10px dotted purple;
   font-size: 2rem;
 }
@@ -22,13 +27,13 @@ h2 {
 }
 
 .job-title {
-  color: darkslategray;
+  color: rgb(46, 79, 79);
   font-weight: bold;
 }
 
 ul {
   background-color: white;
-  border: 5px solid purple;
+  border: 5px solid purple
   padding: 30px;
   border-radius: 20px;
 }
