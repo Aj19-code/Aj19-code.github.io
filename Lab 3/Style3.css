@@ -26,10 +26,14 @@ h2 {
   font-size: 1.5rem;
 }
 
+/* ================= CLASS STYLING ================= */
+
 .job-title {
   color: rgb(46, 79, 79);
   font-weight: bold;
 }
+
+/* ================= LIST STYLING ================= */
 
 ul {
   background-color: white;
@@ -37,6 +41,9 @@ ul {
   padding: 30px;
   border-radius: 20px;
 }
+
+/* ================= LINK STYLING ================= */
+
 
 a {
   color: green;
